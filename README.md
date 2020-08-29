@@ -7,13 +7,13 @@ A Gatsby plugin to download and prefetch [Google Fonts](https://fonts.google.com
 With npm:
 
 ```bash
-npm install --save gatsby-plugin-prefetch-google-fonts
+npm install --save @el7cosmos/gatsby-plugin-prefetch-google-fonts
 ```
 
 Or with Yarn:
 
 ```bash
-yarn add gatsby-plugin-prefetch-google-fonts
+yarn add @el7cosmos/gatsby-plugin-prefetch-google-fonts
 ```
 
 ## Usage
