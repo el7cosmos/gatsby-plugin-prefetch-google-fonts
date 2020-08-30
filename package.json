@@ -138,7 +138,6 @@
     "statable": "^0.3.2",
     "static-server": "^2.2.1",
     "strip-html-comments": "^1.0.0",
-    "toml": "^2.3.3",
-    "wt-cli": "^10.0.3"
+    "toml": "^2.3.3"
   }
 }
