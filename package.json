@@ -40,8 +40,7 @@
     "prepublishOnly": "npm run build",
     "reset": "node utils/reset",
     "serve": "gatsby serve --open",
-    "test": "echo 'No test specified'",
-    "travis": "opn https://travis-ci.org/escaladesports/gatsby-plugin-prefetch-google-fonts/branches"
+    "test": "echo 'No test specified'"
   },
   "jest": {
     "testRegex": "/.*(__tests__\\/.*)|(.*(test|spec))\\.jsx?$",
