@@ -30,6 +30,7 @@ _optimize
 coverage
 /*.js
 /*.js.map
+!babel.config.js
 !gatsby-config.js
 
 # Temporary
