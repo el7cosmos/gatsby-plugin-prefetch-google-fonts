@@ -1,6 +1,0 @@
-{
-	"extends": "escalade-sports",
-	"env": {
-    	"jest": true
-	}
-}
