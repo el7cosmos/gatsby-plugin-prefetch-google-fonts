@@ -24,16 +24,20 @@ In your `gatsby-config.js` file, load in the plugin along with which web fonts t
 module.exports = {
   plugins: [
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `@el7cosmos/gatsby-plugin-prefetch-google-fonts`,
       options: {
         fonts: [
           {
-            family: `Oswald`,
-            subsets: [`latin`],
-          },
-          {
-            family: `Open Sans`,
-            variants: [`400`, `700`]
+            family: 'Roboto',
+            variants: [
+              '400',
+              '400i',
+              '700',
+              '700i',
+            ],
+            subsets: [
+              'latin-ext',
+            ],
           },
         ],
       },
