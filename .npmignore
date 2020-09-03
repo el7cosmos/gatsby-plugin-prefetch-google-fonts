@@ -39,3 +39,10 @@ plugins/dist
 # Temporary
 temp
 temp-*
+
+.cache
+.eslintrc.yml
+.github
+.idea
+public
+babel.config.js
